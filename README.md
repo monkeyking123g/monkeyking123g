@@ -17,7 +17,7 @@
 
 ---
 
-### :men_technologist: About Me :
+### 👨‍🦲_technologist: About Me :
 - I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
