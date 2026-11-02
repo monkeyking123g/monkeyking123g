@@ -50,13 +50,6 @@ TypeScript end to end: NestJS + GraphQL APIs, MySQL, Redis/BullMQ workers on AWS
 
 ---
 
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monkeyking123g&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monkeyking123g&theme=tokyonight" alt="Most used languages" />
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=monkeyking123g&style=flat-square&color=2E86AB" alt="Profile views" />
 </div>
