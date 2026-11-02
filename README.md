@@ -1,73 +1,62 @@
-# Hi there, I'm Dmytro 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Backend+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
+
+# Hi, I'm Dmytro 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=560&lines=Backend+Software+Engineer;TypeScript+%C2%B7+NestJS+%C2%B7+GraphQL;Data+pipelines+%26+background+jobs;Making+slow+things+fast" alt="Typing SVG" />
+
+**Backend-focused Software Engineer** building multi-tenant SaaS for e-commerce analytics.<br/>
+TypeScript end to end: NestJS + GraphQL APIs, MySQL, Redis/BullMQ workers on AWS, React dashboards on top.
+
+<a href="https://www.linkedin.com/in/dmytro-ipatii-82aa04223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dimaipatii1994@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 </div>
 
 ---
 
-## 🚀 About Me
+### 🧑‍💻 About me
 
-- 🔭 **Currently working as** a Software Engineer specializing in backend development
-- 🌍 **Based in** Italy
-- 💻 **Passionate about** building scalable web applications and solving complex problems
-- 📚 **Always learning** new technologies and best practices
-- ✍️ **Exploring** technical content writing and open source contributions
-- ⚡ **In my free time** I enjoy solving coding challenges and reading tech articles
+- 💼 Software Engineer at **BetterShop**, an analytics, advertising and billing platform for Amazon & TikTok sellers and vendors
+- 🌍 Based in **Italy**
+- 🎯 I like boring, readable code, measurable performance wins and owning a feature from schema to UI
+- 📚 Currently exploring LLM agents over real business data
 
 ---
 
-## 🛠️ Tech Stack
+### 🔧 What I work on
 
-### Backend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge&logo=redis&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+| Area | What I build |
+|---|---|
+| **APIs** | Multi-tenant GraphQL API (NestJS, TypeORM, MySQL) with JWT, role-based and multi-account access |
+| **Background jobs** | BullMQ job platform: schedulers, scaled worker replicas, memory-capped export processes |
+| **Data pipelines** | Amazon SP-API, Ads API, Brand Analytics and TikTok Shop: ingest, dedupe and aggregate millions of rows |
+| **Billing** | Stripe subscriptions, annual plans, usage limits and free trials |
+| **BI & AI** | Dashboard builder (React, MUI, Recharts) and LLM agents that answer questions over the data |
+| **Performance** | Slow-query hunting on RDS, batched upserts, quadratic → linear job rewrites |
 
 ---
 
-## 📊 GitHub Analytics
+### 🛠️ Tech stack
+
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,materialui,vite" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" /> |
+| **Testing & tools** | <img src="https://skillicons.dev/icons?i=jest,git,github" /> |
+| **Also** | ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white) ![Amazon SP--API](https://img.shields.io/badge/Amazon_SP--API-FF9900?style=flat-square) ![TikTok Shop](https://img.shields.io/badge/TikTok_Shop-000000?style=flat-square&logo=tiktok&logoColor=white) |
+
+---
+
+### 📊 GitHub stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monkeyking123g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyking123g&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monkeyking123g&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monkeyking123g&theme=tokyonight" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monkeyking123g&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dmytro-ipatii-82aa04223/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dimaipatii1994@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/monkeyking123g" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=monkeyking123g&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=monkeyking123g&style=flat-square&color=2E86AB" alt="Profile views" />
 </div>
